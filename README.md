@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Jakub 👋
 
-<!--
-**jakubszubka/jakubszubka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior C# .NET developer with experience building scalable web platforms and services using the .NET ecosystem.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Boocars
+Previously worked as part of the backend .NET team on **Boocars** — a platform for managing vehicle bookings and rentals.
+
+Main technologies and areas involved:
+- C#
+- .NET
+- ASP.NET Core
+- MySQL
+- REST APIs
+- Microsoft Azure
+- Backend systems & integrations
+
+## Tech Stack
+
+### Backend
+- C#
+- .NET / ASP.NET Core
+- Entity Framework Core
+- REST API development
+
+### Databases
+- MySQL
+- SQL
+
+### Cloud & DevOps
+- Microsoft Azure
+- Git
+- CI/CD
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+## Contact
+
+📫 jakubszubkawork@gmail.com
